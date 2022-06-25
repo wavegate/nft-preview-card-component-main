@@ -99,7 +99,6 @@ data {
   display: inline-flex;
   align-items: center;
   color: var(--cyan);
-  letter-spacing: px;
   font-weight: 400;
   font-size: 0.9rem;
 }
@@ -114,7 +113,7 @@ hr {
   border-top: 1px solid hsla(215, 32%, 27%, 0.8);
 }
 
-time {
+#time {
   display: inline-flex;
   align-items: center;
   color: var(--softBlue);
